@@ -14,6 +14,18 @@ pnpm dev
 bun dev
 ```
 
+Database hosting deployed on railway.app
+
+where our data is gonna to live
+
+as for interacting with the data from the application we goin to use Prima prisma.io
+
+for authentitcation NextAuth.js next-auth.js.org
+
+sign in sign out functions, handle logic for store user sections,
+
+connected with a lot of providers
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
